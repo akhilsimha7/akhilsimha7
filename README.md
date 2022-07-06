@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Akhil, an Engineer trying to learn new softwares every now and then. 
-- 📫 You can write me a mail at thedefeatedengineer@gmail.com
+- 📫 
