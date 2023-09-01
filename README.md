@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Akhil, an Engineer trying to learn new softwares every now and then. 
-- 📫 
+- 👋 Hi, I’m Akhil, an Engineer trying to learn new software every now and then. My field of interest is Network and Communication with a main focus on Vehicle Communication.
+- 📫 I currently reside in Bremen, Germany. 
